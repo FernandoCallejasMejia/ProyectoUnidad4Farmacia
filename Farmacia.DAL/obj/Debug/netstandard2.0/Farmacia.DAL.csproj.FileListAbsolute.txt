@@ -1,0 +1,12 @@
+C:\Users\Fer\Documents\Programacion\POO\ProyectoUnidad4Farmacia\Farmacia.DAL\bin\Debug\netstandard2.0\Farmacia.DAL.deps.json
+C:\Users\Fer\Documents\Programacion\POO\ProyectoUnidad4Farmacia\Farmacia.DAL\bin\Debug\netstandard2.0\Farmacia.DAL.dll
+C:\Users\Fer\Documents\Programacion\POO\ProyectoUnidad4Farmacia\Farmacia.DAL\bin\Debug\netstandard2.0\Farmacia.DAL.pdb
+C:\Users\Fer\Documents\Programacion\POO\ProyectoUnidad4Farmacia\Farmacia.DAL\bin\Debug\netstandard2.0\Farmacia.COMMON.dll
+C:\Users\Fer\Documents\Programacion\POO\ProyectoUnidad4Farmacia\Farmacia.DAL\bin\Debug\netstandard2.0\Farmacia.COMMON.pdb
+C:\Users\Fer\Documents\Programacion\POO\ProyectoUnidad4Farmacia\Farmacia.DAL\obj\Debug\netstandard2.0\Farmacia.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Fer\Documents\Programacion\POO\ProyectoUnidad4Farmacia\Farmacia.DAL\obj\Debug\netstandard2.0\Farmacia.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Fer\Documents\Programacion\POO\ProyectoUnidad4Farmacia\Farmacia.DAL\obj\Debug\netstandard2.0\Farmacia.DAL.AssemblyInfoInputs.cache
+C:\Users\Fer\Documents\Programacion\POO\ProyectoUnidad4Farmacia\Farmacia.DAL\obj\Debug\netstandard2.0\Farmacia.DAL.AssemblyInfo.cs
+C:\Users\Fer\Documents\Programacion\POO\ProyectoUnidad4Farmacia\Farmacia.DAL\obj\Debug\netstandard2.0\Farmacia.DAL.csproj.CopyComplete
+C:\Users\Fer\Documents\Programacion\POO\ProyectoUnidad4Farmacia\Farmacia.DAL\obj\Debug\netstandard2.0\Farmacia.DAL.dll
+C:\Users\Fer\Documents\Programacion\POO\ProyectoUnidad4Farmacia\Farmacia.DAL\obj\Debug\netstandard2.0\Farmacia.DAL.pdb

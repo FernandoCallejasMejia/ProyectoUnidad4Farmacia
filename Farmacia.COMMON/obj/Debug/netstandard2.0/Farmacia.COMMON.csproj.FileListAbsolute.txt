@@ -1,0 +1,9 @@
+C:\Users\Fer\Documents\Programacion\POO\ProyectoUnidad4Farmacia\Farmacia.COMMON\bin\Debug\netstandard2.0\Farmacia.COMMON.deps.json
+C:\Users\Fer\Documents\Programacion\POO\ProyectoUnidad4Farmacia\Farmacia.COMMON\bin\Debug\netstandard2.0\Farmacia.COMMON.dll
+C:\Users\Fer\Documents\Programacion\POO\ProyectoUnidad4Farmacia\Farmacia.COMMON\bin\Debug\netstandard2.0\Farmacia.COMMON.pdb
+C:\Users\Fer\Documents\Programacion\POO\ProyectoUnidad4Farmacia\Farmacia.COMMON\obj\Debug\netstandard2.0\Farmacia.COMMON.csprojResolveAssemblyReference.cache
+C:\Users\Fer\Documents\Programacion\POO\ProyectoUnidad4Farmacia\Farmacia.COMMON\obj\Debug\netstandard2.0\Farmacia.COMMON.csproj.CoreCompileInputs.cache
+C:\Users\Fer\Documents\Programacion\POO\ProyectoUnidad4Farmacia\Farmacia.COMMON\obj\Debug\netstandard2.0\Farmacia.COMMON.AssemblyInfoInputs.cache
+C:\Users\Fer\Documents\Programacion\POO\ProyectoUnidad4Farmacia\Farmacia.COMMON\obj\Debug\netstandard2.0\Farmacia.COMMON.AssemblyInfo.cs
+C:\Users\Fer\Documents\Programacion\POO\ProyectoUnidad4Farmacia\Farmacia.COMMON\obj\Debug\netstandard2.0\Farmacia.COMMON.dll
+C:\Users\Fer\Documents\Programacion\POO\ProyectoUnidad4Farmacia\Farmacia.COMMON\obj\Debug\netstandard2.0\Farmacia.COMMON.pdb
